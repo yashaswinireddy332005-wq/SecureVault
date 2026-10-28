@@ -1,0 +1,6 @@
+Flask
+cryptography
+bcrypt
+pyotp
+qrcode
+pillow

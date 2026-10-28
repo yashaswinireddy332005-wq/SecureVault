@@ -1,0 +1,17 @@
+# ⚠️ CRITICAL — never commit these. key.bin can decrypt every file in every
+# user's vault, and user.json holds password hashes + TOTP secrets.
+data/
+vault_files/
+logs/
+static/qr_code.png
+otp_qr.png
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
