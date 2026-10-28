@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Secure File Vault
 
 A multi-user file encryption vault with password + TOTP two-factor authentication, available as both a Flask web app and a command-line tool.
@@ -169,3 +170,6 @@ AI Undergraduate @ CUST, Islamabad
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+=======
+# SecureVault
+>>>>>>> 0630ccf1350e688acaadfb3e94fe3e9bb7f5e059
